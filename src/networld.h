@@ -43,7 +43,7 @@ void NetWorld_delete(NetWorld * aWorld);
 
 // Initialization
 void NetWorld_initNodePosition(NetWorld * self, int iNode, double x, double y); // position must be an float[size][2] array...
-void Player_init(double x,double y,char name[],int hp);
+void Player_init(Player * self,double x,double y,char name[],int hp);
 
 
 // To String
