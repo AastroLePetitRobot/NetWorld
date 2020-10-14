@@ -9,8 +9,8 @@ Each Functionnality groups several components to develop as UserStories under th
 
 ## Fct.1 - Project Framing.
 ---
-- @MainDevelopers:
-- @SecondaryDevelopers:
+- @MainDevelopers: Marvin/Tom/Noah
+- @SecondaryDevelopers: Faustine/Ambroise/Pierre
 ---
 
 This functionality cover a framework for the team of developers.
@@ -24,8 +24,8 @@ This functionality cover a framework for the team of developers.
 
 ## Fct.2 - NetWorld
 ---
-- @MainDevelopers:
-- @SecondaryDevelopers:
+- @MainDevelopers: Tom/Marvin   
+- @SecondaryDevelopers: Faustine/Ambroise/Pierre/Noah
 ---
 
 NetWorld represent the center piece of the game engine. It is the programme component that glue all the others. 
@@ -41,8 +41,8 @@ It is an environment for the game entities, viewed as a planar graph modelling a
 ## Fct.3 - Entities
 
 ---
-- @MainDevelopers:
-- @SecondaryDevelopers:
+- @MainDevelopers: Pierre/Faustine  
+- @SecondaryDevelopers: Ambroise/Noah/Marvin/Tom
 ---
 
 Entities are the game element capable of actions. This functionality mainly regroups the basic interactions of those entities between them and with the NetWorld.
@@ -59,8 +59,8 @@ Entities are the game element capable of actions. This functionality mainly regr
 
 ## Fct.4 - User Interface
 ---
-- @MainDevelopers:
-- @SecondaryDevelopers:
+- @MainDevelopers: Ambroise/Noah
+- @SecondaryDevelopers: Marvin/Tom/Pierre/Faustine
 ---
 
 This functionality focus on a graphical rendering of the NetWold and to provide a control through the mouse and keyboard.
@@ -74,8 +74,8 @@ This functionality focus on a graphical rendering of the NetWold and to provide 
 
 ## Fct.5 - Robust Development environment
 ---
-- @MainDevelopers:
-- @SecondaryDevelopers:
+- @MainDevelopers: Unknow (WIP)
+- @SecondaryDevelopers: Unknow (WIP)
 ---
 
 - All developers can refer to a good-practice doc for code.
@@ -84,16 +84,16 @@ This functionality focus on a graphical rendering of the NetWold and to provide 
 
 ## Fct.5 - Game-play
 ---
-- @MainDevelopers:
-- @SecondaryDevelopers:
+- @MainDevelopers: Unknow (WIP) 
+- @SecondaryDevelopers: Unknow (WIP)
 ---
 
 It is time to define a game objectives and maybe change the name of the project.
 
 ## Fct.6 - Programme distributed programme
 ---
-- @MainDevelopers:
-- @SecondaryDevelopers:
+- @MainDevelopers: Unknow (WIP)
+- @SecondaryDevelopers: Unknow (WIP)
 ---
 
 The goal here is to distribute the game process.
